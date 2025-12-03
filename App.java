@@ -6,5 +6,6 @@ public class App {
 
     public void methodInBranch(){
         System.out.println("Revision 3 in Branch");
+        System.out.println("Revision 5 in Branch");
     }
 }
