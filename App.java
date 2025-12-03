@@ -5,4 +5,8 @@ public class App {
         System.out.println("Revision 4 in Master");
         System.out.println("Revision 6 in Master");
     }
+
+    public void methodInBranch(){
+        System.out.println("Revision 3 in Branch");
+    }
 }
